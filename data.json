@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "username": "idan",
+      "passwords": [
+        {
+          "service": "gAAAAABli06FRCwJ7UF4qRwmZILTuR2X_nqG0TsjalN_PmbULBjLCay8dmjkl_kwGvArOZKxUCJYlncCo1RqrWADPfKb-MXBgQ==",
+          "password": "gAAAAABli06FvCgNZSPxDN322ueGesJg1zO3dVycaFhcSmN5S8E5BnVNgofDfQBovyjwcQi456wV4BNrV3iNInsUuSMPQMkpCA=="
+        },
+        {
+          "service": "gAAAAABli0-sANKqN61KP6pJtC-59m9PkSChrdO9enwACKRMPSzMq8Nxd9XabiSegUlNewxjVNKCyMcrm2lIdKZwPdD_da-IuQ==",
+          "password": "gAAAAABli0-ssQTq_vMk3AWTwSEvjP76ay0qvg2cpolTgWGhxWRvGHiRaGVxN5GRnQA-JVHAaEnzf4DYIFe9TDMAsrh3xgUdOQ=="
+        }
+      ]
+    },
+    {
+      "username": "omer",
+      "passwords": [
+        {
+          "service": "gAAAAABlizBUDGlOdkzEINl2jPk7VKGNpCczMXYvu80EMxTkUzMuy04ZuGfT1WEreTDYC-Y-1w157Yhgux0bCVJ2CPhCBbFiSA==",
+          "password": "gAAAAABlizBUXv8q70O5UrTRL8VhPBslTcaBqkA0MbKGpE1UFCBybovMInUUS6X9H8eavobv_ThHMJMxRY2RAmfm9tGJjZFvhA=="
+        }
+      ]
+    },
+    {
+      "username": "roy",
+      "passwords": [
+        {
+          "service": "gAAAAABlizRseKShIoSPdloMsrwchXrf6bb5VavFUTVa7hJrDZYOdG73KegSlIxQ0PmbkcVmDLgZyOqeIXKWcXpg4nv7uphsFA==",
+          "password": "gAAAAABlizRsjOikdDGQPiGS6IJt9Fr3oBsn6DOmwGhmMv3gXVQ8skZYRtwkTxTP1nKTsdL613uvYU0vQxyiAk9y2eZnWY_kfw=="
+        },
+        {
+          "service": "gAAAAABlizSaEuFUHP6Z3sIug5qW5dt84DkcxeLitFseI8S2A6v4SYEq61OJ43AV9PSwqUXDO93qK9DU9t_dX5bUEMjtGNkohw==",
+          "password": "gAAAAABlizSav-2_6T-gmrDbKOPLHWvpCxVp0B3yqphlheJEmWbWM0CzTk-zA02CtkFOmOC5Mw8YaWF0J0K-rUOS4D5-vZvvdw=="
+        },
+        {
+          "service": "gAAAAABlizUJ-ai6CJ75vKCcsNZ1AsPsiPGToIxAWT_TpQ5ZOzlhu0w36XQWAWOAZQYl_r6f3rFy2Gs1vXH4HvefdxLmrZQ_ag==",
+          "password": "gAAAAABlizUJ8UM1HFgmWgcauxhi4me48YFouY20cGlTwUwCzFP2DCIVLb13JKuTL61aAeeWqmk9aglTg_B_0n3kYqil0ejVJQ=="
+        },
+        {
+          "service": "gAAAAABlizVG-MivNqMTXccNd5mgVRAM4Zr5G35s35f55W5DFx0wtNvHgc3-ETnD77epd7Ukrbr8mHlfCnbYa0xZcXHcE3EGtA==",
+          "password": "gAAAAABlizVG4MxG6Xf1g8BfVAHif5299EEwwCnzMTbjCnCmxGNtfSDqww6rsn5aML0FoXwQUu9dRJFqewg5nPYFfNWG3Vx1JA=="
+        }
+      ]
+    },
+    {
+      "username": "shahar",
+      "passwords": [
+        {
+          "service": "gAAAAABli1G6C8AHiQeT15l1AJfQwG0AS8dWk1X1XeFGJgvGEbmx9q47gT0ujoYGcAXRG15izjJGCx0P7ZXyQyu_aTlzUiS7Dw==",
+          "password": "gAAAAABli1G6LOwut8TPwEwvqhZiptq5FmZk4jlU2xPXjt5ln1FTLxATbz7hGeoG9qIq1RXoP9e8yx4SgrJ70zQetqBtNj4qUQ=="
+        }
+      ]
+    },
+    {
+      "username": "tal",
+      "passwords": [
+        {
+          "service": "gAAAAABli1Tt22L1JZSXs6fDn-59ARzQ2tVM1lH6Vt-3wcSuDZnGq39oo0fpHGhCgOYlPPz4kK1OV9E3ku7OKk1ytJPnLSigzg==",
+          "password": "gAAAAABli1TtDkubjRsI4DijAlqjFbvh9USCKHHaRsfRJKbfPkrzNfwvl5RAaD1ATaJGwv0ngBIF5tbtGdFLjvOTZKExTP7poA=="
+        }
+      ]
+    },
+    {
+      "username": "chava",
+      "passwords": [
+        {
+          "service": "gAAAAABli1WFdzAm_dbGmPZnmGuIMAGfJG-jDOHzpkxRvFsaLCkaqRbx1A3Iu44luNr11dJkyEFBYD3GL5fWDA_Dx9JQkLiWlQ==",
+          "password": "gAAAAABli1WFJ3yj3_5WAc5tbacj5SW1C5YOzZKPWQMDxbN6SzyWO2LChibmCni9N0Vr7o5X_B5sRUvVw7nwZqVsPfVHj06eVw=="
+        }
+      ]
+    }
+  ]
+}
